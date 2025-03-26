@@ -1,4 +1,4 @@
-**PII Recon by Ru7** is a Python GUI application built with Tkinter that leverages Microsoft Presidio Analyzer to scan files and folders for Personally Identifiable Information (PII). The application supports a wide range of file types—from plain text and PDFs to images and common office documents—and allows you to add custom regex-based recognizers for additional PII patterns.
+**PII Recon** is a Python GUI application built with Tkinter that leverages Microsoft Presidio Analyzer to scan files and folders for Personally Identifiable Information (PII). The application supports a wide range of file types—from plain text and PDFs to images and common office documents—and allows you to add custom regex-based recognizers for additional PII patterns.
 
 ## Features
 
